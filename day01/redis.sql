@@ -11,3 +11,11 @@ hash
 	hset key field value 			创建哈希数据
 	hget key field 				或缺一个值
 	....补充测试一下上传效果,不写了。
+	
+
+
+
+
+
+
+	测试免密码测试.
